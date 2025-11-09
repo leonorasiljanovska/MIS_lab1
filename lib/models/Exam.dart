@@ -55,7 +55,7 @@ List<Exam> exams = [
     rooms: ["215"],
   ),
   Exam(
-    subject: "Информациски системи",
+    subject: "Мобилни информациски системи",
     dateTime: DateTime(2025, 2, 3, 9, 30),
     rooms: ["Б2"],
   ),
